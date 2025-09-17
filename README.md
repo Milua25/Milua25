@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --># 💫 About Me:
-🔭 I’m currently working on improving my Python and Go skills<br>🤝 I’m looking for help with projects to help improve my backend development skills<br>🌱 I’m currently learning more about backend development<br>💬 Ask me about<br>⚡ Fun fact: <br>I like playing Apex Legends 
+🔭 I’m currently focused on building scalable and efficient systems using Python and Go<br>🤝I'm actively sharpening my skills through real-world projects, diving deeper into system design, API development, and cloud-native technologies<br>💬 Ask me about<br>⚡ Fun fact: <br>When I’m not coding, you’ll find me in the arena—yes, I’m a big fan of Apex Legends.
 
 
 ## 🌐 Socials:
